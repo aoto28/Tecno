@@ -1,0 +1,30 @@
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.exe
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\bin\Debug\Usuarios.xml
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.administrador.resources
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.exe
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.xml
+c:\users\pc\documents\visual studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.secretaria.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.usuario1.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Usuarios\Usuarios\obj\Debug\Usuarios.iniciar.resources
+D:\ARCHIVOS\version final\Usuarios\Usuarios\bin\Debug\Usuarios.exe.config
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.exe
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.xml
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.pdb
+D:\ARCHIVOS\version final\Usuarios\Usuarios\bin\Debug\Usuarios.exe
+D:\ARCHIVOS\version final\Usuarios\Usuarios\bin\Debug\Usuarios.pdb
+D:\ARCHIVOS\version final\Usuarios\Usuarios\bin\Debug\Usuarios.xml
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.vbprojResolveAssemblyReference.cache
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.administrador.resources
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.iniciar.resources
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.Resources.resources
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.secretaria.resources
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.usuario1.resources
+D:\ARCHIVOS\version final\Usuarios\Usuarios\obj\Debug\Usuarios.vbproj.GenerateResource.Cache
